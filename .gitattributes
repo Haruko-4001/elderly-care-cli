@@ -1,0 +1,15 @@
+# 统一换行符，避免跨平台差异
+* text=auto
+
+# Java 源码与文档使用 LF
+*.java   text eol=lf
+*.md     text eol=lf
+*.json   text eol=lf
+.gitignore      text eol=lf
+.gitattributes  text eol=lf
+
+# Windows 批处理必须为 CRLF，否则 cmd 解析异常
+*.bat    text eol=crlf
+
+# 二进制文件不做换行转换
+*.jar    binary

@@ -1,0 +1,45 @@
+# ===== 构建产物 =====
+out/
+bin/
+build/
+target/
+*.class
+*.jar
+# 保留项目运行所需的三方 jar（Jackson）
+!lib/*.jar
+
+# ===== IDE / 编辑器 =====
+.idea/
+*.iml
+*.ipr
+*.iws
+*.hprof
+.vscode/
+.settings/
+.project
+.classpath
+*.swp
+*~
+
+# ===== Node 工具链（仅用于生成答辩材料，非本项目依赖）=====
+node_modules/
+package.json
+package-lock.json
+
+# ===== 项目分析及答辩相关材料（不外发）=====
+项目分析及答辩相关/
+
+# ===== 系统与临时文件 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.bak
+*.orig
+*.rej
+~$*
+
+# ===== 运行时临时数据（保留 data/*.json 初始数据集）=====
+data/*.tmp
+data/*.bak
