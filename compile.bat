@@ -9,7 +9,6 @@ javac -encoding UTF-8 ^
   -d out ^
   src\com\neusoft\yiyang\*.java ^
   src\com\neusoft\yiyang\model\*.java ^
-  src\com\neusoft\yiyang\dao\*.java ^
   src\com\neusoft\yiyang\service\*.java ^
   src\com\neusoft\yiyang\cli\*.java
 
