@@ -1,0 +1,7 @@
+[
+  {"id":1,"username":"admin","password":"admin","nickname":"管理员张三","sex":1,"phone_number":"13800000001","role_id":1,"is_deleted":0},
+  {"id":2,"username":"admin1","password":"admin1","nickname":"管理员李四","sex":0,"phone_number":"13800000002","role_id":1,"is_deleted":0},
+  {"id":3,"username":"admin2","password":"admin2","nickname":"管理员王五","sex":1,"phone_number":"13800000003","role_id":1,"is_deleted":0},
+  {"id":4,"username":"steward1","password":"123456","nickname":"护工赵六","sex":0,"phone_number":"13900000001","role_id":2,"is_deleted":0},
+  {"id":5,"username":"steward2","password":"123456","nickname":"护工钱七","sex":1,"phone_number":"13900000002","role_id":2,"is_deleted":0}
+]

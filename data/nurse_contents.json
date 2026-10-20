@@ -1,0 +1,8 @@
+[
+  {"id":1,"serial_number":"NC001","nursing_name":"血压测量","service_price":"10.00","message":"每日测量血压","status":1,"execution_cycle":"每天","execution_times":"1","is_deleted":0},
+  {"id":2,"serial_number":"NC002","nursing_name":"翻身护理","service_price":"20.00","message":"每2小时翻身一次","status":1,"execution_cycle":"每天","execution_times":"12","is_deleted":0},
+  {"id":3,"serial_number":"NC003","nursing_name":"喂食护理","service_price":"15.00","message":"协助老人进食","status":1,"execution_cycle":"每天","execution_times":"3","is_deleted":0},
+  {"id":4,"serial_number":"NC004","nursing_name":"口腔清洁","service_price":"8.00","message":"每日口腔清洁护理","status":1,"execution_cycle":"每天","execution_times":"2","is_deleted":0},
+  {"id":5,"serial_number":"NC005","nursing_name":"康复训练","service_price":"50.00","message":"肢体康复训练指导","status":1,"execution_cycle":"每周","execution_times":"3","is_deleted":0},
+  {"id":6,"serial_number":"NC006","nursing_name":"心理疏导","service_price":"30.00","message":"心理咨询与疏导","status":1,"execution_cycle":"每周","execution_times":"1","is_deleted":0}
+]

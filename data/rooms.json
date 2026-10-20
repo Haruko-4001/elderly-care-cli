@@ -1,0 +1,17 @@
+[
+  {"id":1,"room_floor":"1","room_no":101,"building_no":"606"},
+  {"id":2,"room_floor":"1","room_no":102,"building_no":"606"},
+  {"id":3,"room_floor":"1","room_no":103,"building_no":"606"},
+  {"id":4,"room_floor":"1","room_no":104,"building_no":"606"},
+  {"id":5,"room_floor":"1","room_no":105,"building_no":"606"},
+  {"id":6,"room_floor":"2","room_no":201,"building_no":"606"},
+  {"id":7,"room_floor":"2","room_no":202,"building_no":"606"},
+  {"id":8,"room_floor":"2","room_no":203,"building_no":"606"},
+  {"id":9,"room_floor":"2","room_no":204,"building_no":"606"},
+  {"id":10,"room_floor":"2","room_no":205,"building_no":"606"},
+  {"id":11,"room_floor":"3","room_no":301,"building_no":"606"},
+  {"id":12,"room_floor":"3","room_no":302,"building_no":"606"},
+  {"id":13,"room_floor":"3","room_no":303,"building_no":"606"},
+  {"id":14,"room_floor":"3","room_no":304,"building_no":"606"},
+  {"id":15,"room_floor":"3","room_no":305,"building_no":"606"}
+]

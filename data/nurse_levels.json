@@ -1,0 +1,5 @@
+[
+  {"id":1,"level_name":"一级护理","level_status":1,"is_deleted":0},
+  {"id":2,"level_name":"二级护理","level_status":1,"is_deleted":0},
+  {"id":3,"level_name":"三级护理","level_status":1,"is_deleted":0}
+]

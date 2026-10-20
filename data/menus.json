@@ -1,0 +1,22 @@
+[
+  {"id":1,"menu_name":"客户管理","parent_id":0,"path":"/customer","icon":"user","sort_num":1},
+  {"id":2,"menu_name":"入住登记","parent_id":1,"path":"/customer/checkin","icon":"","sort_num":1},
+  {"id":3,"menu_name":"退住登记","parent_id":1,"path":"/customer/checkout","icon":"","sort_num":2},
+  {"id":4,"menu_name":"外出登记","parent_id":1,"path":"/customer/outward","icon":"","sort_num":3},
+  {"id":5,"menu_name":"床位管理","parent_id":0,"path":"/bed","icon":"home","sort_num":2},
+  {"id":6,"menu_name":"床位示意图","parent_id":5,"path":"/bed/overview","icon":"","sort_num":1},
+  {"id":7,"menu_name":"床位管理","parent_id":5,"path":"/bed/manage","icon":"","sort_num":2},
+  {"id":8,"menu_name":"护理管理","parent_id":0,"path":"/nurse","icon":"heart","sort_num":3},
+  {"id":9,"menu_name":"护理级别","parent_id":8,"path":"/nurse/level","icon":"","sort_num":1},
+  {"id":10,"menu_name":"护理项目","parent_id":8,"path":"/nurse/content","icon":"","sort_num":2},
+  {"id":11,"menu_name":"客户护理设置","parent_id":8,"path":"/nurse/customer","icon":"","sort_num":3},
+  {"id":12,"menu_name":"护理记录","parent_id":8,"path":"/nurse/record","icon":"","sort_num":4},
+  {"id":13,"menu_name":"健康管家","parent_id":0,"path":"/steward","icon":"team","sort_num":4},
+  {"id":14,"menu_name":"设置服务对象","parent_id":13,"path":"/steward/assign","icon":"","sort_num":1},
+  {"id":15,"menu_name":"服务关注","parent_id":13,"path":"/steward/attention","icon":"","sort_num":2},
+  {"id":16,"menu_name":"用户管理","parent_id":0,"path":"/user","icon":"lock","sort_num":5},
+  {"id":17,"menu_name":"日常护理","parent_id":0,"path":"/daily","icon":"edit","sort_num":6},
+  {"id":18,"menu_name":"外出申请","parent_id":0,"path":"/outward-apply","icon":"door","sort_num":7},
+  {"id":19,"menu_name":"退住申请","parent_id":0,"path":"/backdown-apply","icon":"logout","sort_num":8},
+  {"id":20,"menu_name":"护理记录查询","parent_id":0,"path":"/record-query","icon":"search","sort_num":9}
+]
